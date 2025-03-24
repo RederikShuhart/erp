@@ -339,6 +339,7 @@
   <constants>Constant.ТолькоЗащищеннаяАутентификацияPOP3</constants>
   <constants>Constant.ТолькоЗащищеннаяАутентификацияSMTP</constants>
   <constants>Constant.УчетПоСкладам</constants>
+  <constants>Constant.prime_Константа</constants>
   <commonForms>CommonForm.ОбщиеНастройки</commonForms>
   <commonForms>CommonForm.НастройкиМобильногоУстройства</commonForms>
   <commonForms>CommonForm.НастройкаПочты</commonForms>
