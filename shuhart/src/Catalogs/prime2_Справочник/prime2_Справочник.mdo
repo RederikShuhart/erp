@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="0ffcd1cc-15e1-4e56-b676-9256fb0cd38e">
+  <producedTypes>
+    <objectType typeId="f1fc606c-ed8a-4d10-9b17-7cdcbe0990dc" valueTypeId="c1ea2542-9aff-48ad-8d8b-f682d0dc5d62"/>
+    <refType typeId="ba950ddd-239d-4dc1-8617-7ad80098dd3c" valueTypeId="50d9bda7-1011-4c49-acad-dfe9ed779da1"/>
+    <selectionType typeId="54f8e02c-3950-414c-ae5f-7da31c7fd1b5" valueTypeId="316addb0-2c72-40a9-bb62-a766fbce59d2"/>
+    <listType typeId="30e5aa39-6b92-4dd0-9db0-7b51c379993e" valueTypeId="6d81dbcb-079c-4b6c-94b4-9060b7a01acb"/>
+    <managerType typeId="cde991b8-8fbb-411a-a6a9-af22a0cd438d" valueTypeId="f374149d-41c5-4cbc-92ba-038588975295"/>
+  </producedTypes>
+  <name>prime2_Справочник</name>
+  <synonym>
+    <key>ru</key>
+    <value>Prime2 справочник</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.prime2_Справочник.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.prime2_Справочник.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>
